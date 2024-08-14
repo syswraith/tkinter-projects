@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk
+from ttkbootstrap import ttk
 
 # convert function
 def convert(): output_str.set(float(entry_int.get()) * 1.6)
