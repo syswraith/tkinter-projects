@@ -1,11 +1,11 @@
 import tkinter as tk
-from ttkbootstrap import ttk
+import ttkbootstrap as ttk
 
 # convert function
 def convert(): output_str.set(float(entry_int.get()) * 1.6)
 
 # window
-window = tk.Tk()
+window = ttk.Window(themename="darkly")
 window.title("Demo")
 window.geometry("500x300")
 
