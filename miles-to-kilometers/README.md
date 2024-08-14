@@ -3,5 +3,5 @@
 - ttkbootstrap
 
 ## Results
-![Result 1](./result1)
-![Result 2](./result2)
+![Result 1](./result1.png)
+![Result 2](./result2.png)
